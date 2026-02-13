@@ -1,24 +1,24 @@
 const CACHE_NAME = 'feedlot-v2';
 const ASSETS_TO_CACHE = [
-    './',
-    './index.html',
-    './css/style.css',
-    './js/app.js',
-    './js/auth.js',
-    './js/db.js',
-    './js/serial-manager.js',
-    './js/induksi.js',
-    './js/reweight.js',
-    './js/penjualan.js',
-    './js/utils.js',
-    './js/backup.js',
-    './js/supabase-sync.js',
-    './libs/xlsx.full.min.js',
-    './libs/jspdf.umd.min.js',
-    './libs/jspdf.plugin.autotable.umd.min.js',
-    './manifest.json',
-    './icons/icon-192.png',
-    './icons/icon-512.png'
+    '.feedlotmanagement/',
+    '.feedlotmanagement/index.html',
+    '.feedlotmanagement/css/style.css',
+    '.feedlotmanagement/js/app.js',
+    '.feedlotmanagement/js/auth.js',
+    '.feedlotmanagement/js/db.js',
+    '.feedlotmanagement/js/serial-manager.js',
+    '.feedlotmanagement/js/induksi.js',
+    '.feedlotmanagement/js/reweight.js',
+    '.feedlotmanagement/js/penjualan.js',
+    '.feedlotmanagement/js/utils.js',
+    '.feedlotmanagement/js/backup.js',
+    '.feedlotmanagement/js/supabase-sync.js',
+    '.feedlotmanagement/libs/xlsx.full.min.js',
+    '.feedlotmanagement/libs/jspdf.umd.min.js',
+    '.feedlotmanagement/libs/jspdf.plugin.autotable.umd.min.js',
+    '.feedlotmanagement/manifest.json',
+    '.feedlotmanagement/icons/icon-192.png',
+    '.feedlotmanagement/icons/icon-512.png'
 ];
 
 // Install — cache all static assets
